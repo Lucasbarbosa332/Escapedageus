@@ -3,6 +3,8 @@ Um mini game inspirado em Bomberman mas com objetivo de escapar da dungeons
 
 Ultilize o mouse pra movimnetar seu personagem para esquerda ou para direita para baixo ou para cima
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 ////////////////////////////////////////////////////////////////////////////////
 // 
@@ -18,3 +20,12 @@ Ultilize o mouse pra movimnetar seu personagem para esquerda ou para direita par
 // M -> Monster. Don't go here, you'll lose.
 // <space> -> Floor where you can walk.
 ////////////////////////////////////////////////////////////////////////////////
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+ 
+<h3 align='center'> 🌎 Rodando no navegador</h3>
+
+- Você pode clicar no link para ser redirecionado ao site:
+[Clique aqui para testar ](https://deft-sundae-acee9c.netlify.app/)
